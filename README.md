@@ -23,7 +23,7 @@ pip install numpy
 
 #### 1. Run the jupyter workbook in jupyter notebook 
 ### or
-#### 1. You can run the python code
+#### 1. You can run the python code by installing the above dependencies
 #### or
 #### 1. You can run this google colab file https://colab.research.google.com/drive/1_OFx0lMy6GESeeZ7dkQppvMpV4CdhLgn#scrollTo=nYNf3XvgMdC9 upload the biourja-efzrr file through the file icon and run the colab file.
 
