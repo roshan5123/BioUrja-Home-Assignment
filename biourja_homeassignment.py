@@ -7,6 +7,7 @@
 # Import pandas and numpy libraries
 import pandas as pd
 import numpy as np
+warnings.filterwarnings("ignore")
 
 # Read the csv file using pandas.read_csv function
 # Specify the file name, the columns to use, and the header row
